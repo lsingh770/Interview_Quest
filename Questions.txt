@@ -1,0 +1,71 @@
+## Interview Questions for SDET / Sr. SDET / QA Automation
+
+1. Which software developmental methodologies are you using?
+
+2. What is the difference between PageFactory and PageObjectModel?
+
+3. What are the cons of using PageObjectModel?
+
+4. What is method overriding?
+
+5. How to achieve run time polymorphism?
+
+6. What is encapsulation and how can we achieve it?
+
+7. Write a program to interleave two given strings, `Str1` and `Str2`, by alternately taking characters from each string to form finalStr. 
+   If one string is longer than the other, append the remaining characters as they are.
+'''   
+    Str1 = “aceg”
+    Str2  = “bdfh”
+    finalStr = “abcdefgh”
+'''
+'''
+    Str1 = "abc"  
+    Str2 = "pqrs"
+    finalStr = "apbqcrs"
+'''
+    Constraints:
+    --------------
+    1. The input strings can have different lengths.
+    2. The order of characters should be maintained while interleaving.
+
+8. What is interface in java?
+
+9. How many  type of interface or class you have used to setup driver?
+
+10. Use SSL in web-driver
+
+11. What is difference between put and post?
+
+12. How to link pojo with request and response?
+
+13. How to handle exceptions in java?
+
+14. What is difference between throw and throws?
+
+15. How to perform synchronisation in java selenium?
+
+16. What is abstraction in java and how to achieve it?
+
+17. Perform `Bubble Sort` in java on integer Array [19,11,13,10,1]
+
+18. Write java code to get below , given String "ABCDEF"
+    result = "FFFFFFEEEEEDDDDCCCBBA"
+
+19. What are the annotations in java and the sequence of annotations execution?
+
+20. What is the `@DataProvider` used for?
+
+21. What sort of software development architecture have you used in your automation framework?
+
+22. Is there any annotation like `@BeforeTest`? What is its role in automation framework?
+
+23. What is the difference between `@BeforeTest` and `@BeforeMethod` in TestNG?
+
+24. Write query to find OrderIDs present in table Order1 but not present in table Order2 using JOIN?
+
+25. There is a table with name `Offers` containing columns 'OffersID','OfferName', 'StartDate', 'EndDate'. Write a query to find OfferNames which expired last month.
+
+26. Which command is used to copy file at SFTP location?
+
+27. Which command is used to get top 10 lines of logfile?
