@@ -53,7 +53,7 @@
     string = "ABCDEF"
     result = "FFFFFFEEEEEDDDDCCCBBA"
 
-#### Ques 19. What are the annotations in java and the sequence of annotations execution?
+#### Ques 19. What are the annotations in TestNG and the sequence of annotations execution?
 
 #### Ques 20. What is the `@DataProvider` used for?
 
